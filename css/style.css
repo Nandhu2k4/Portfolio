@@ -278,7 +278,7 @@ a {
 .progress {
   overflow: visible;
   margin-bottom: 26px;
-  height: 4px; }
+  height: 10px; }
   .progress .progress-bar {
     background-color: #bac964;
     position: relative;
